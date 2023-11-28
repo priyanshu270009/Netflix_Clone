@@ -1,2 +1,2 @@
 #STREAM VIDEOS
- usIng HTML ,CSS &amp; JavaScripT
+ HTML ,CSS &amp; JavaScript
